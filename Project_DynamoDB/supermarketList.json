@@ -1,0 +1,40 @@
+[{
+  "Category": "Dairy",
+  "Food": "Milk" 
+},
+  {
+  "Category": "Dairy",
+  "Food": "Cheese" 
+},
+{
+  "Category": "Vegetable",
+  "Food": "Tomato"  
+},
+{
+  "Category": "Vegetable",
+  "Food": "Carrot"  
+},
+{
+  "Category": "Fruit",
+  "Food": "Banana"  
+},
+{
+  "Category": "Fruit",
+  "Food": "Apple"  
+},
+{
+  "Category": "Fruit",
+  "Food": "Watermelon"  
+},
+{
+  "Category": "Protein",
+  "Food": "Eggs"  
+},
+{
+  "Category": "Protein",
+  "Food": "Chicken"  
+},
+{
+  "Category": "Protein",
+  "Food": "Lentils"  
+}]
